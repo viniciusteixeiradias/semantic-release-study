@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-study",
-  "version": "1.0.1",
+  "version": "0.0.0",
   "private": true,
   "description": "Better understood of SEMVER",
   "main": "index.js",
