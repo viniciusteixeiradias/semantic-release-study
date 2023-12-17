@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-study",
-  "version": "0.0.0",
+  "version": "1.0.0-feature-clear-change-log.1",
   "private": true,
   "description": "Better understood of SEMVER",
   "main": "index.js",
