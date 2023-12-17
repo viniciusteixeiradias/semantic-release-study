@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/viniciusteixeiradias/semantic-release-study/compare/v1.0.1...v1.0.2) (2023-12-17)
+
+
+### Bug Fixes
+
+* test branches ([22baf32](https://github.com/viniciusteixeiradias/semantic-release-study/commit/22baf32d7df0d5e1ec15f6b0a0a579b3a85256ce))
+
 ## [1.0.1](https://github.com/viniciusteixeiradias/semantic-release-study/compare/v1.0.0...v1.0.1) (2023-12-17)
 
 
