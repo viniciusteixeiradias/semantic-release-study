@@ -5,6 +5,15 @@
 
 * remove comment pr permission ([7ececc1](https://github.com/viniciusteixeiradias/semantic-release-study/commit/7ececc12e4ebcda057fdc339503f723f18e2f746))
 * remove issue ([30f0900](https://github.com/viniciusteixeiradias/semantic-release-study/commit/30f09005bb603e1faedcec76d41f93a2ef3cf778))
+* set version to 1.0.0 ([e10ac79](https://github.com/viniciusteixeiradias/semantic-release-study/commit/e10ac797f9b03db0810284a5318b188655fc3f3e))
+
+## [1.0.1](https://github.com/viniciusteixeiradias/semantic-release-study/compare/v1.0.0...v1.0.1) (2023-12-17)
+
+
+### Bug Fixes
+
+* remove comment pr permission ([7ececc1](https://github.com/viniciusteixeiradias/semantic-release-study/commit/7ececc12e4ebcda057fdc339503f723f18e2f746))
+* remove issue ([30f0900](https://github.com/viniciusteixeiradias/semantic-release-study/commit/30f09005bb603e1faedcec76d41f93a2ef3cf778))
 
 # 1.0.0 (2023-12-17)
 
