@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/viniciusteixeiradias/semantic-release-study/compare/v1.0.3...v1.0.4) (2023-12-17)
+
+
+### Bug Fixes
+
+* docs ([#6](https://github.com/viniciusteixeiradias/semantic-release-study/issues/6)) ([db77d76](https://github.com/viniciusteixeiradias/semantic-release-study/commit/db77d76c6f19ea0f85f9a60d17a71f2a13e8c64e))
+* release ([#5](https://github.com/viniciusteixeiradias/semantic-release-study/issues/5)) ([f5044f9](https://github.com/viniciusteixeiradias/semantic-release-study/commit/f5044f914a779feee8ae3d4128178b65d76a42b4)), closes [#4](https://github.com/viniciusteixeiradias/semantic-release-study/issues/4)
+* update ci ([#4](https://github.com/viniciusteixeiradias/semantic-release-study/issues/4)) ([e852726](https://github.com/viniciusteixeiradias/semantic-release-study/commit/e852726f094498dbec271af3357a3226eeafd539))
+
 ## [1.0.4-dev-release.1](https://github.com/viniciusteixeiradias/semantic-release-study/compare/v1.0.3...v1.0.4-dev-release.1) (2023-12-17)
 
 
