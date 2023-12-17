@@ -1,3 +1,10 @@
+# [1.1.0-feature-version.1](https://github.com/viniciusteixeiradias/semantic-release-study/compare/v1.0.5...v1.1.0-feature-version.1) (2023-12-17)
+
+
+### Features
+
+* test prerelease ([#8](https://github.com/viniciusteixeiradias/semantic-release-study/issues/8)) ([d42a942](https://github.com/viniciusteixeiradias/semantic-release-study/commit/d42a942ca237c5dac3e3465ed2d5d5b7d9c6a91c))
+
 ## [1.0.6-feature-test-prerelease.1](https://github.com/viniciusteixeiradias/semantic-release-study/compare/v1.0.5...v1.0.6-feature-test-prerelease.1) (2023-12-17)
 
 
