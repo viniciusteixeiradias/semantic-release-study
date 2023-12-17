@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/viniciusteixeiradias/semantic-release-study/compare/v1.0.2...v1.0.3) (2023-12-17)
+
+
+### Bug Fixes
+
+* semantic release ([0347296](https://github.com/viniciusteixeiradias/semantic-release-study/commit/0347296b782240a49770d6ddda49945ab8ea1754))
+* something wrong ([2dd3c8c](https://github.com/viniciusteixeiradias/semantic-release-study/commit/2dd3c8c98912c66196d067c77baf0923615e6c99))
+
 ## [1.0.2](https://github.com/viniciusteixeiradias/semantic-release-study/compare/v1.0.1...v1.0.2) (2023-12-17)
 
 
