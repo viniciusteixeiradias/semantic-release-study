@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/viniciusteixeiradias/semantic-release-study/compare/v1.0.4...v1.0.5) (2023-12-17)
+
+
+### Bug Fixes
+
+* this is my task ([#7](https://github.com/viniciusteixeiradias/semantic-release-study/issues/7)) ([c6d7b09](https://github.com/viniciusteixeiradias/semantic-release-study/commit/c6d7b09ee1a946a2ced24115129a9d3d26da03c7))
+
 ## [1.0.4](https://github.com/viniciusteixeiradias/semantic-release-study/compare/v1.0.3...v1.0.4) (2023-12-17)
 
 
